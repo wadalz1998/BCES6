@@ -1,0 +1,44 @@
+[
+	{
+	"id": "1",
+	"name": "CyberBeats",
+	"price": 99.99,
+	"image": "product1.png",
+	"description": "Accessories"
+	},
+	{
+	"id": "2",
+	"name": "CyberPhone",
+	"price": 99.99,
+	"image": "product2.png",
+	"description": "Accessories"
+	},
+	{
+	"id": "3",
+	"name": "CyberTablet",
+	"price": 99.99,
+	"image": "product3.png",
+	"description": "Accessories"
+	},
+	{
+	"id": "4",
+	"name": "CyberWatch",
+	"price": 99.99,
+	"image": "product4.png",
+	"description": "Accessories"
+	},
+	{
+	"id": "5",
+	"name": "CyberGlass",
+	"price": 99.99,
+	"image": "product5.png",
+	"description": "Accessories"
+	},
+	{
+	"id": "6",
+	"name": "CyberGadget",
+	"price": 99.99,
+	"image": "product6.png",
+	"description": "Accessories"
+	}
+]

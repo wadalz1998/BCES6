@@ -1,0 +1,12 @@
+@include responsive("small-down") {
+  .products {
+    width: 90%;
+  }
+}
+.option__Product {
+  display: flex;
+  #form-select {
+    margin-bottom: 20px;
+    margin-left: auto;
+  }
+}
