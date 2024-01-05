@@ -80,12 +80,11 @@ function handleCart(id) {
       const dataTemp = data[i];
       if (dataTemp.id === id) {
         newCart.push(dataTemp);
-        moreArry.push({ ...newCart, count });
       }
     }
 
     setLocalStorage(newCart);
-    // return newCart;
+    return newCart;
   }
 }
 function showCart() {}
