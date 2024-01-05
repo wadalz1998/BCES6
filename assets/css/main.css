@@ -383,3 +383,25 @@ body.darkMode {
 .darkMode .footerPhone .footer__dark {
   display: block;
 }/*# sourceMappingURL=main.css.map */
+
+
+#adminButton {
+  position: fixed;
+  right: 0; 
+  top: 20%;
+  
+  transform: translateY(-50%);
+  background-color: #4CAF50; 
+  border: none; 
+  color: white; 
+  padding: 15px 32px; 
+  text-align: center; 
+  text-decoration: none; 
+  font-size: 16px; 
+  cursor: pointer; 
+  transition-duration: 0.4s; 
+}
+
+#adminButton:hover {
+  background-color: #45a049;
+}

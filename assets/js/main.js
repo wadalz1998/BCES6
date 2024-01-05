@@ -11,3 +11,8 @@ toggleBtn.addEventListener('click',function(){
 switchBtn.addEventListener('click',function(){
     document.querySelector('body').classList.toggle('darkMode');
 });
+
+document.getElementById('adminButton').addEventListener('click', function() {
+    window.location.href = 'admin/views'; // Adjust the path as needed
+  });
+  
